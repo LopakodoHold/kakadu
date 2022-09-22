@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+Papdi Olivér Ákos
+
+Hány protont tartalmaz a hidrogén atom?:
+Protonszáma: 1
+=======
+Hány protont tartalmaz a hidrogén atom?
+>>>>>>> d03e6f2b46abc89c6d71d6e4637ff916c1bb54bf
