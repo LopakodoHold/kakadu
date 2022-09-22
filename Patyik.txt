@@ -1,1 +1,3 @@
 Szalontai Panding
+
+pythonban ezzel a paranccsal írunk ki a képernyőre:
