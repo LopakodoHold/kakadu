@@ -1,3 +1,6 @@
 Szalontai Panding
 
-pythonban ezzel a paranccsal írunk ki a képernyőre:
+pythonban ezzel a paranccsal írunk ki a képernyőre: 
+
+
+print("xy")
